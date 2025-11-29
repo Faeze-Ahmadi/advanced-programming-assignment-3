@@ -1,2 +1,3 @@
 # Advanced Programming - Assignment 3
-Machine Learning Regression, Classification and Clustering project.
+
+Machine Learning assignment implementing Regression, Logistic Regression and Clustering using scikit-learn.
