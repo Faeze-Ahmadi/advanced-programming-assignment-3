@@ -1,5 +1,5 @@
 
-```markdown
+```
 # Advanced Programming - Assignment 3  
 ### Machine Learning Regression, Classification, and Clustering Project  
 **Author:** Faeze Ahmadi  
@@ -27,7 +27,7 @@ This repository is designed to be clean, educational, and easy to follow — eve
 
 ## Project Structure
 
-```
+````
 
 advanced-programming-assignment-3/
 │
