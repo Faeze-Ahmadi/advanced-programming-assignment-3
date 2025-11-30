@@ -22,7 +22,8 @@ clusters = kmeans.fit_predict(X_scaled)
 
 # 4) Plot clusters (first 2 features)
 plt.figure(figsize=(7, 5))
-plt.scatter(X_scaled[:, 0], X_scaled[:, 1], c=clusters, cmap="Set1", s=60, edgecolor='k')
+plt.scatter(X_scaled[:, 0], X_scaled[:, 1], c=clusters,
+            cmap="Set1", s=60, edgecolor='k')
 plt.title("KMeans Clusters (Iris Dataset)")
 plt.xlabel(iris.feature_names[0])
 plt.ylabel(iris.feature_names[1])
@@ -32,7 +33,8 @@ plt.show()
 
 # 5) Compare clusters with real labels
 plt.figure(figsize=(7, 5))
-plt.scatter(X_scaled[:, 0], X_scaled[:, 1], c=iris.target, cmap="viridis", s=60, edgecolor='k')
+plt.scatter(X_scaled[:, 0], X_scaled[:, 1], c=iris.target,
+            cmap="viridis", s=60, edgecolor='k')
 plt.title("Real Classes (Iris Dataset)")
 plt.xlabel(iris.feature_names[0])
 plt.ylabel(iris.feature_names[1])
