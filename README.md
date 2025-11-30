@@ -26,6 +26,10 @@ This repository is designed to be clean, educational, and easy to follow — eve
 ## Project Structure
 
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 560dfb044923392c343fa121b0a6dcb04d6c3ae7
 advanced-programming-assignment-3/
 │
 ├── part1_regression/
@@ -56,6 +60,10 @@ advanced-programming-assignment-3/
 │
 ├── requirements.txt
 └── README.md
+<<<<<<< HEAD
+=======
+
+>>>>>>> 560dfb044923392c343fa121b0a6dcb04d6c3ae7
 ```
 
 ---
