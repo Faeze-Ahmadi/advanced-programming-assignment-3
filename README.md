@@ -27,7 +27,7 @@ This repository is designed to be clean, educational, and easy to follow — eve
 
 ## Project Structure
 
-````
+```
 
 advanced-programming-assignment-3/
 │
@@ -60,7 +60,7 @@ advanced-programming-assignment-3/
 ├── requirements.txt
 └── README.md
 
-````
+```
 
 ---
 
