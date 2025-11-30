@@ -1,4 +1,4 @@
-# Part 1 - Regression on California Housing Dataset
+# simple model of linear regressin
 
 from sklearn.datasets import fetch_california_housing
 from sklearn.model_selection import train_test_split
