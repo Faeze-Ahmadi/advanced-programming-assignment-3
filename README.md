@@ -1,5 +1,3 @@
-
-```
 # Advanced Programming - Assignment 3  
 ### Machine Learning Regression, Classification, and Clustering Project  
 **Author:** Faeze Ahmadi  
@@ -27,8 +25,7 @@ This repository is designed to be clean, educational, and easy to follow — eve
 
 ## Project Structure
 
-````
-
+```
 advanced-programming-assignment-3/
 │
 ├── part1_regression/
@@ -59,8 +56,7 @@ advanced-programming-assignment-3/
 │
 ├── requirements.txt
 └── README.md
-
-````
+```
 
 ---
 
@@ -91,11 +87,11 @@ pip install -r requirements.txt
 
 # Part 1 — Regression (California Housing)
 
-### ✔ Goal
+### Goal
 
 Predict house prices using the **California Housing Dataset**.
 
-### ✔ Techniques used
+### Techniques used
 
 * Linear Regression
 * Train/test split
@@ -105,7 +101,7 @@ Predict house prices using the **California Housing Dataset**.
 * Model saving (`.pkl`)
 * Error handling + logging
 
-### ✔ How to run
+### How to run
 
 **Simple version:**
 
@@ -129,11 +125,11 @@ python part1_regression/regression_advanced.py
 
 # Part 2 — Classification (Iris Dataset)
 
-### ✔ Goal
+### Goal
 
 Predict the class of Iris flowers using Logistic Regression.
 
-### ✔ Techniques used
+### Techniques used
 
 * Logistic Regression
 * Confusion Matrix
@@ -143,7 +139,7 @@ Predict the class of Iris flowers using Logistic Regression.
 * Error handling + logging
 * OOP structure (advanced version)
 
-### ✔ How to run
+### How to run
 
 **Simple version:**
 
